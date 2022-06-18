@@ -1,5 +1,6 @@
 package org.devops
 
-def println(centent){
+//打印内容
+def printMes(centent){
   pringln(centent)
 }

@@ -6,7 +6,7 @@ def tools = new org.devops.tools()
 
 
 
-String workspace = "E:\jenkins\pipeline-demo"
+String workspace = "E:\\jenkins\\pipeline-demo"
 
 //Pipeline
 pipeline {
